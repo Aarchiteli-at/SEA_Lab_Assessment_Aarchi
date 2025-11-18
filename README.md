@@ -10,7 +10,7 @@
 ---
 
 ## Project Overview
-This project analyzes the COVID-19 dataset provided (`country_wise_latest.csv`) using R.  
+This project analyzes the dataset provided (`country_wise_latest.csv`) using R.  
 The analysis includes exploratory data analysis (EDA), visualizations, and insights into the data.  
 
 ---
@@ -26,7 +26,7 @@ The analysis includes exploratory data analysis (EDA), visualizations, and insig
 The dataset includes the following variables:  
 
 - `Country.Region` → Name of the country or region  
-- `Confirmed` → Total confirmed COVID-19 cases  
+- `Confirmed` → Total confirmed cases  
 - `Deaths` → Total deaths  
 - `Recovered` → Total recovered  
 - `Active` → Active cases  
@@ -39,7 +39,7 @@ The dataset includes the following variables:
 
 ## Visualizations
 1. **Histogram of Confirmed Cases**  
-   - Shows the distribution of confirmed COVID-19 cases across countries.  
+   - Shows the distribution of confirmed cases across countries.  
    - Most countries have fewer cases; few countries show very high numbers.  
 
 2. **Histogram of Deaths**  

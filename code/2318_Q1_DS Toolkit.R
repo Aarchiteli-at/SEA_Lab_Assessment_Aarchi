@@ -1,7 +1,4 @@
-# -------------------------------
-# SEA Lab Assessment - COVID-19 Dataset Analysis
-# Updated version: See plots & save PDFs
-# -------------------------------
+# Aarchi Teli - 2318
 
 # Load libraries
 library(ggplot2)
